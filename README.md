@@ -1,10 +1,3 @@
----
-title: "Trabalho Regressão"
-author: "Aprendizado Supervisionado"
-format: html
-editor: visual
----
-
 ## Trabalho de Regressão: Previsão do valor de apartmentos em Minas Gerais utilizando o pacote 'tidymodels'
 
 Carregando pacotes.
